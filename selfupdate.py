@@ -24,7 +24,7 @@ import urllib.request
 
 import version
 
-REPO = "ardyn-systems/NineLives"
+REPO = "Ardyn-Systems/Nine_Lives"
 GH_LATEST = f"https://api.github.com/repos/{REPO}/releases/latest"
 UA = {"User-Agent": "NineLives-selfupdate"}
 
