@@ -12,7 +12,7 @@ const { spawn } = require("child_process");
 const { getJson, downloadToFile, downloadToBuffer } = require("./download");
 
 const APP_VERSION = require("../package.json").version;
-const REPO = "ardyn-systems/NineLives";
+const REPO = "Ardyn-Systems/Nine_Lives";
 const GH_LATEST = `https://api.github.com/repos/${REPO}/releases/latest`;
 
 const norm = (v) => (v || "").replace(/[^0-9.]/g, "");

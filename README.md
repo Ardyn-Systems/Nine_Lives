@@ -15,7 +15,7 @@ click Run.
 no install needed — explore the interface and extract hashes from a Wi-Fi
 capture. Or get the desktop app for Windows or Linux to actually crack.
 
-**Download:** [Releases](https://github.com/ardyn-systems/NineLives/releases)
+**Download:** [Releases](https://github.com/Ardyn-Systems/Nine_Lives/releases)
 (Windows installer/portable, Linux AppImage/tarball).
 **Docs:** [User guide](docs/user-guide.md) · [Hosting](docs/hosting.md).
 Any UI change updates the guide + screenshots in the same PR
@@ -84,7 +84,7 @@ Python twin `compat.py`); `python compat.py` dumps it to the terminal.
 ## Requirements
 
 - **To use it:** nothing — download the installer/AppImage from
-  [Releases](https://github.com/ardyn-systems/NineLives/releases). hashcat and a
+  [Releases](https://github.com/Ardyn-Systems/Nine_Lives/releases). hashcat and a
   starter wordlist set are bundled.
 - **To build the desktop app:** **Node 18+** and npm.
 - **To run the hosted server / from source (Python):** **Python 3.8+** (standard
@@ -124,7 +124,7 @@ so the first visit after a lull takes ~30–60 s to wake.
 
 Deploy your own with the included [`render.yaml`](render.yaml):
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ardyn-systems/NineLives)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ardyn-Systems/Nine_Lives)
 
 Render reads the blueprint and spins up a free **explore + extract** web
 service (no GPU, no server-side cracking). Full details in

@@ -17,7 +17,7 @@ Screenshots are regenerated with `python docs/screenshots.py` (see
 
 ## Install
 
-Grab the latest build from the [Releases page](https://github.com/ardyn-systems/NineLives/releases):
+Grab the latest build from the [Releases page](https://github.com/Ardyn-Systems/Nine_Lives/releases):
 
 - **Windows:** `NineLives-Setup-<ver>.exe` (installer).
 - **Linux:** `NineLives-<ver>-x86_64.AppImage` (mark executable and run).
