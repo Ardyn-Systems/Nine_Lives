@@ -9,3 +9,6 @@ Sample data shipped inside NineLives so a fresh install works out of the box.
   so cracking the sample recovers it immediately.
 
 For **authorized** auditing only. The sample is a well-known public test capture.
+
+<!-- CI trigger test: confirms Actions auto-run on PRs after the transfer re-arm. -->
+
