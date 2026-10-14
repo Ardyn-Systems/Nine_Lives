@@ -1,5 +1,6 @@
 name: build
 
+# Re-arm: touched on main to re-register Actions triggers after the org transfer (2026-10-14).
 # ARCHIVED: the Python build. Electron is the shipping app now (see
 # electron.yml, which builds + releases on v* tags). This keeps the Python
 # `test` job (pytest on PRs/pushes) and lets you still build the Python

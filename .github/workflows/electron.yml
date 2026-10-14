@@ -2,6 +2,7 @@
 # wordlists, and examples, builds the NSIS installer (Windows) + AppImage (Linux),
 # smoke-tests the packaged app, and attaches the artifacts to the GitHub release.
 # PRs / manual dispatch build without bundling vendor (packaging check only).
+# Re-arm: touched on main to re-register Actions triggers after the org transfer (2026-10-14).
 name: electron
 
 on:
