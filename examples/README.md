@@ -12,3 +12,5 @@ For **authorized** auditing only. The sample is a well-known public test capture
 
 <!-- CI trigger test: confirms Actions auto-run on PRs after the transfer re-arm. -->
 
+
+<!-- re-test after Actions permissions toggle. -->
